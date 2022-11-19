@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+changed starter code to improve accessibility and organize CSS
